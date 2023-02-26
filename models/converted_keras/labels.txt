@@ -1,0 +1,7 @@
+0 I love you
+1 Good Luck
+2 No
+3 Sorry
+4 Water
+5 Nothing/Idle
+6 Washroom?
